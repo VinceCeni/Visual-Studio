@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Pages\Error.cshtml.cs" />
+    <Content Include="Pages\Index.cshtml.cs" />
+    <Content Include="Pages\Privacy.cshtml.cs" />
+  </ItemGroup>
+
+</Project>
